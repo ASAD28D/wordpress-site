@@ -1,0 +1,6 @@
+#footer {
+    background-color: black;
+    color: white; /* Optional: Change text color for visibility */
+    padding: 20px; /* Optional: Add some space inside the footer */
+    text-align: center; /* Optional: Center-align the text */
+}
